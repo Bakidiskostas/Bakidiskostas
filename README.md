@@ -1,6 +1,6 @@
 # Hi, I'm Konstantinos Bakidis 👋
 
-**Procurement Controller → Data Analyst** | Finance & Markets Domain | Based in Germany
+**Procurement Controlling → Data Analysis** | Finance & Markets Domain
 
 I combine hands-on controlling and procurement experience with a growing data analytics toolkit. My projects sit at the intersection of **financial markets**, **business intelligence**, and **automation** — built to solve real problems, not just to demonstrate skills.
 
