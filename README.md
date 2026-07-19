@@ -26,6 +26,8 @@ I combine hands-on controlling and procurement experience with a growing data an
 
 Live dashboard tracking metals, energy, FX, interest rates, GDP and inflation — built for procurement controlling context. Base-100 normalization for cross-commodity comparison, FOMC-aligned forecast toggle with fan charts. Auto-refreshes weekly via GitHub Actions.
 
+[![commodity](assets/commodity.png)](https://bakidiskostas.github.io/commodity-dashboard/)
+
 🔗 [Live Demo](https://bakidiskostas.github.io/commodity-dashboard/)
 
 ---
@@ -34,6 +36,8 @@ Live dashboard tracking metals, energy, FX, interest rates, GDP and inflation �
 *Python · Chart.js · Eurostat API · Adzuna API · Jooble API · GitHub Actions*
 
 Interactive dashboard comparing 30 European countries across 16 indicators: economy, cost of living, job market, quality of life. Scoring model ranks each country 0–100 per indicator. Data refreshes automatically twice a month. Built for data-driven relocation and career research.
+
+[![euro-analyst](assets/euro-analyst.png)](https://bakidiskostas.github.io/euro-analyst/)
 
 🔗 [Live Demo](https://bakidiskostas.github.io/euro-analyst/)
 
@@ -44,12 +48,20 @@ Interactive dashboard comparing 30 European countries across 16 indicators: econ
 
 Bloomberg-style multi-factor stock screener combining fundamental analysis (valuation, growth, margins) and technical signals (RSI, SMA200, Fibonacci). Custom scoring model ranks 80+ tickers. Reflects my background as an active investor with knowledge in both fundamental and technical analysis.
 
+[![stock-terminal](assets/stock-terminal.png)](https://bakidiskostas.github.io/stock-dashboard/stock_dashboard.html)
+
+🔗 [Live Demo](https://bakidiskostas.github.io/stock-dashboard/stock_dashboard.html)
+
 ---
 
 ### ⚽ [Draw Strategy Backtest](https://github.com/Bakidiskostas/draw-strategy-backtest)
 *Python · Plotly · Walk-Forward Methodology*
 
 Rigorous backtest of a football draw-betting strategy across 29,000+ matches in 17 leagues using walk-forward simulation. Three staking modes tested. Published with an honest, data-driven conclusion — including where the strategy fails. Demonstrates statistical thinking and intellectual integrity over confirmation bias.
+
+[![draw-edge](assets/draw-edge.png)](https://bakidiskostas.github.io/draw-strategy-backtest/)
+
+🔗 [Live Demo](https://bakidiskostas.github.io/draw-strategy-backtest/)
 
 ---
 
