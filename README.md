@@ -69,7 +69,6 @@ Rigorous backtest of a football draw-betting strategy across 29,000+ matches in 
 - **BSc International Economics** — Democritus University of Thrace
 - **Controlling Certificate** — ILS Hamburg
 - **MS Office Specialist**
-- Metallux AG: production → procurement controlling → monthly KPI reporting & dashboards
 
 ---
 
