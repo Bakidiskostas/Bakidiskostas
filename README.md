@@ -12,7 +12,6 @@ I combine hands-on controlling and procurement experience with a growing data an
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 
 **Core:** Python (pandas, requests, Plotly) · Power BI / DAX · Advanced Excel (Power Query, PivotTables) · REST APIs · GitHub Actions (CI/CD automation)
 
