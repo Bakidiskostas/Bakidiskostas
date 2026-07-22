@@ -52,7 +52,7 @@ Bloomberg-style multi-factor stock screener combining fundamental analysis (valu
 
 ---
 
-### ⚽ [[Draw Strategy Backtest](https://github.com/Bakidiskostas/draw-strategy-backtest)](https://raw.githubusercontent.com/Bakidiskostas/draw-strategy-backtest/8fadc8f479fbab94e630f7a4edb7663f192e58d4/banner.svg)
+### ⚽ [Draw Strategy Backtest](https://github.com/Bakidiskostas/draw-strategy-backtest)
 *Python · Plotly · Walk-Forward Methodology*
 
 Rigorous backtest of a football draw-betting strategy across 29,000+ matches in 17 leagues using walk-forward simulation. Three staking modes tested. Published with an honest, data-driven conclusion — including where the strategy fails. Demonstrates statistical thinking and intellectual integrity over confirmation bias.
